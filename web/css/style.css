@@ -1,0 +1,202 @@
+
+
+body {
+	margin:0;
+	padding:0;
+	color:#000;
+	font-family:'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight:normal;
+	margin:0.3em 0 0.7em 0;
+}
+h1 { font-size:35px;}
+h2 { font-size:28px;}
+h3 { font-size:26px;}
+h4 { font-size:24px;}
+h5 { font-size:20px;}
+h6 { font-size:16px;}
+
+p {
+	margin:0 0 0.7em 0;
+}
+
+a:link,
+a:visited {
+	color:#C51417;
+	text-decoration:none;
+}
+a:hover {
+	color:black;
+	text-decoration:underline;
+}
+a:active {
+	color:#C51417;
+	text-decoration:underline;
+}
+
+
+#wrapper {
+	width:1000px;
+	padding:15px;
+	margin:30px auto;
+	background-color:#FFF;
+	box-shadow:0px 3px 5px rgba(0,0,0,0.5);
+        border-style: solid;
+	border-radius:5px;
+}
+
+#header {
+	background-color:black;
+	padding:10px;
+	color:#FFF;
+	margin-bottom:10px;
+	overflow:hidden;
+}
+
+#logo {
+	float:left;
+}
+
+#slogan {
+	float:right;
+	font-size:22px;
+	font-style:italic;
+}
+
+
+
+
+
+#nav {
+	background-color:red;
+	clear:both;
+	overflow:hidden;
+}
+
+#nav ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+#nav ul li {
+	float:left;
+}
+
+#nav ul li a {
+	padding:12px 10px;
+	display:block;
+	font-size:14px;
+}
+
+#nav ul li a:link,
+#nav ul li a:visited {
+	color:#ffffff;
+	text-decoration:none;
+}
+
+#nav ul li a:hover {
+	background-color:#C51417;
+}
+
+#nav ul li a:active {
+	color:red;
+}
+ul.lgn li input,ul.lgn form
+{
+    
+    padding:12px 10px;
+display: inline;
+width: 75px;
+}
+.formel_1{
+    
+    width: 100px;
+}
+ul.lgn form
+{
+margin: 3px;
+}
+
+.social {
+	float:right;
+	font-size:22px;
+	margin:4px 15px 0 0;
+}
+
+.social a:link,
+.social a:visited {
+	color:#FFFFFF;
+}
+.social a:hover {
+	color:#C51417;
+}
+.social a:active {
+	color:#CCCCCC;
+}
+
+
+#main {
+	float:left;
+	width:700px;
+	margin:10px 0;
+}
+
+#sidebar {
+	float:right;
+	width:240px;
+	margin:10px 0;
+	position:relative;
+}
+
+#footer {
+	background-color:red;
+	text-align:center;
+	color:#cccccc;
+	clear:both;
+	padding:10px;
+	font-size:10px;
+}
+#footer p {
+	margin:0;
+}
+
+
+#sidebar h2 {
+	background-color:red;
+	color:black;
+	padding:4px;
+}
+
+.block {
+    
+	margin-bottom:30px;
+}
+
+#mapa {
+	border:10px solid #EEEEEE;
+	width:680px;
+	height:350px;
+}
+
+
+#kontakt {
+	background:#EEEEEE;
+	padding:10px;
+	margin-top:50px;
+}
+
+
+#kontakt-tabela td{
+	vertical-align:top;
+	padding:10px;
+}
+
+
+
+
+
+
+
